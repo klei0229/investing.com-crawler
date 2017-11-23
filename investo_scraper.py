@@ -1,10 +1,5 @@
 import scrapy
 
-##To do's:
-
-##I GOT BLOCKED FIND A WAY TO USEA DOWNLOAD DELAY AND MAYBE HIDE COOKIES
-
-
 class fa_investing(scrapy.Spider):
 	#DOWNLOAD_DELAY = 3
 	name = 'fa_investing'
